@@ -2,7 +2,7 @@ name: Send Google Play Apps
 
 on:
   schedule:
-    - cron: '0 * * * *'   # كل ساعة
+        - cron: '0 */4 * * *'   # كل 4 ساعات
   workflow_dispatch:      # لتشغيله يدويًا من GitHub
 
 jobs:
