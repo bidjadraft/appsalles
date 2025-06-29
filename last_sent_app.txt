@@ -1,1 +1,1 @@
-com.qrcode.barcode.scanner.reader.generator.pro
+com.barcode.qrcode.scanner.reader.pro
