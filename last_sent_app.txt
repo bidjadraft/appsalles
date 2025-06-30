@@ -1,1 +1,1 @@
-com.barcode.qrcode.scanner.reader.pro
+com.crazyowl.CrazyOwlsPremium
