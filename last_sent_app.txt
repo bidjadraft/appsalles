@@ -1,1 +1,1 @@
-com.panotogomo.pinkblack
+com.panotogomo.lbpink
