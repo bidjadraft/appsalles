@@ -1,1 +1,1 @@
-com.watchfacestudio.awfdashanalog
+com.crazyowl.ShurikenJump
