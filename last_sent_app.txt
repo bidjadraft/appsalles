@@ -1,1 +1,1 @@
-com.hardcodedjoy.imacrop
+com.tapuniverse.videocompressor
