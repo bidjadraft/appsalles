@@ -1,1 +1,1 @@
-com.hardcodedjoy.soundrecorderpro
+com.tapuniverse.videostabilizer
