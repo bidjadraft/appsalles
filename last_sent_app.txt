@@ -1,1 +1,1 @@
-com.otto.jewels.planet.match3.puzzle.premium
+com.pockettrend.neomonsters
