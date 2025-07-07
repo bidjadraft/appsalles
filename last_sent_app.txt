@@ -1,1 +1,1 @@
-com.avapuzzlesgames.jewelstreasures.match3
+com.otto.jewels.planet.match3.puzzle.premium
