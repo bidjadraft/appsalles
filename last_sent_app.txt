@@ -1,1 +1,1 @@
-com.cscmobi.merge.city.premium
+com.osheden.whitart
