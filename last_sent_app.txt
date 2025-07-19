@@ -1,1 +1,1 @@
-air.com.littlebigplay.games.crosswordspro
+com.eggies.minicrossword
