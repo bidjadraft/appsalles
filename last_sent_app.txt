@@ -1,1 +1,1 @@
-com.panotogomo.lnored
+com.alexeymorozua.coralreef
