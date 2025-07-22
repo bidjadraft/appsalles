@@ -1,1 +1,1 @@
-com.keice.quicklauncher3
+com.gemjem.match.three.puzzle.games.candy.crush.saga.casual.matching.jelly.sugar.sweet.king
