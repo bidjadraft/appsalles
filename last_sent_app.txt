@@ -1,1 +1,1 @@
-com.gemjem.match.three.puzzle.games.candy.crush.saga.casual.matching.jelly.sugar.sweet.king
+com.gtm.trafficpuzzlepremium
