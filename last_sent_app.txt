@@ -1,1 +1,1 @@
-gallery.photomanager.photogallery.hidepictures.pro
+com.italiano.dreamscape
