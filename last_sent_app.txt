@@ -1,1 +1,1 @@
-com.watchfacestudio.dadam42
+gallery.photomanager.photogallery.hidepictures.pro
