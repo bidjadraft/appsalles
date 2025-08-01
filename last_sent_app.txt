@@ -1,1 +1,1 @@
-com.whitewind.mergedice10
+com.panotogomo.nbred
