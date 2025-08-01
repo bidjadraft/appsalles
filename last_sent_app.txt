@@ -1,1 +1,1 @@
-com.zitga.ninja.stickman.legends.shadow.wars
+com.whitewind.mergedice10
