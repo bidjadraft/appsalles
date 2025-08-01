@@ -1,1 +1,1 @@
-com.atanusanyal.mayur
+com.zitga.ninja.stickman.legends.shadow.wars
