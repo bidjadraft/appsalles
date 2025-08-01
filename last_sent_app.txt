@@ -1,1 +1,1 @@
-com.panotogomo.nbred
+com.pgstudio.bowmasters.rpg.shooting.monster
