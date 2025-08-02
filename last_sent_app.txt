@@ -1,1 +1,1 @@
-com.mathforkids5.paid
+com.easycolours.paid
