@@ -1,1 +1,1 @@
-com.amoledwatchfaces.pulse2
+com.eggies.logoguesschallenge
