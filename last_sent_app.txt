@@ -1,1 +1,1 @@
-com.easycolours.paid
+com.amoledwatchfaces.pulse2
