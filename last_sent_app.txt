@@ -1,1 +1,1 @@
-com.eggies.logoguesschallenge
+air.com.littlebigplay.games.premium.wordtower
