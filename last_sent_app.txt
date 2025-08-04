@@ -1,1 +1,1 @@
-air.com.littlebigplay.games.premium.wordtower
+com.AKStudio.HighwayGame
