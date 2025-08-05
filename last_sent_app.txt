@@ -1,1 +1,1 @@
-com.unimob.mini.restaurant.premium
+bass.eq.music.player.equalizer.pro
