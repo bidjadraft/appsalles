@@ -1,1 +1,1 @@
-bass.eq.music.player.equalizer.pro
+com.hardcodedjoy.soundrecorderpro
