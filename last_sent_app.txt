@@ -1,1 +1,1 @@
-com.pixelfade.aceacademy
+com.eggies.wordmania
