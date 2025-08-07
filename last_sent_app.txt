@@ -1,1 +1,1 @@
-com.eggies.wordmania
+com.space.shooter.alien.galaxyattack
