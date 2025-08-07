@@ -1,1 +1,1 @@
-com.space.shooter.alien.galaxyattack
+air.com.littlebigplay.games.premium.plurals
