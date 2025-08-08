@@ -1,1 +1,1 @@
-com.eggies.techquizmaster
+com.osheden.azulox
