@@ -1,1 +1,1 @@
-net.defensezone3.ultra
+com.eggies.techquizmaster
