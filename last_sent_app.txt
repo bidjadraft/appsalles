@@ -1,1 +1,1 @@
-air.com.littlebigplay.games.premium.wordsandcards
+com.mgif.heroeslegend.idlebattle.action.rpg.premium
