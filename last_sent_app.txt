@@ -1,1 +1,1 @@
-com.livezen.retroshooting.vip
+com.bhanu.batterychargingslideshow
