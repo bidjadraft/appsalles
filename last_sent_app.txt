@@ -1,1 +1,1 @@
-com.panotogomo.diamond
+com.mnwsoftwaresolutions.uvxplayerpro
