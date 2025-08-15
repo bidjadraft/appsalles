@@ -1,1 +1,1 @@
-com.codingtrickshub.passwordsmanager
+com.osheden.ciclo
