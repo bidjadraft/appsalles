@@ -1,1 +1,1 @@
-com.mnwsoftwaresolutions.uvxplayerpro
+com.codingtrickshub.passwordsmanager
