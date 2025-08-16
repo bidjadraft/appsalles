@@ -1,1 +1,1 @@
-com.artifact.uforpgvip
+com.divmob.autochess.heroesinfinity
