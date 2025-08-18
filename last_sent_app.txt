@@ -1,1 +1,1 @@
-bass.equalizer.pro
+audio.volumebooster.pro
