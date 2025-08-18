@@ -1,1 +1,1 @@
-com.watchfacestudio.nocat
+com.panotogomo.squareclear
