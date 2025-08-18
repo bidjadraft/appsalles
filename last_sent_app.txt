@@ -1,1 +1,1 @@
-dj.mixer.music.mixer.pro
+bass.equalizer.pro
