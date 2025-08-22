@@ -1,1 +1,1 @@
-com.whitewind.oneshot
+air.com.littlebigplay.games.premium.spellingmaster
