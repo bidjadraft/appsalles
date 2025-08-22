@@ -1,1 +1,1 @@
-air.com.littlebigplay.games.premium.spellingmaster
+com.lightstar.scantextfromimage
