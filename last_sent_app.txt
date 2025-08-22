@@ -1,1 +1,1 @@
-id.photo.maker.passport.photo.visa.print
+com.whitewind.oneshot
