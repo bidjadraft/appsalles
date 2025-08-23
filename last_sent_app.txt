@@ -1,1 +1,1 @@
-com.lightstar.frames
+com.tapuniverse.imageconverter
