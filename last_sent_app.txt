@@ -1,1 +1,1 @@
-com.tapuniverse.imageconverter
+com.alexeymorozua.galacticpilot
