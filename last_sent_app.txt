@@ -1,1 +1,1 @@
-air.com.littlebigplay.games.premium.wordquest
+com.caveclub.stars
