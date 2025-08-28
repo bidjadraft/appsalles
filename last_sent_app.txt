@@ -1,1 +1,1 @@
-com.watchfacestudio.awfterminal
+com.avalar.athree.epl.gp
