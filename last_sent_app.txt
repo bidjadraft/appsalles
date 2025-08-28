@@ -1,1 +1,1 @@
-com.avalar.athree.epl.gp
+com.fansipan.stickman.shadow.knights.fightinggames
