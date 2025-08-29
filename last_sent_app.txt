@@ -1,1 +1,1 @@
-com.tapuniverse.videocompressor
+com.panotogomo.bdgreen
