@@ -1,1 +1,1 @@
-com.tapuniverse.videostabilizer
+com.bhanu.darkscreenfilterpro
