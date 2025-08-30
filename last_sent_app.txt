@@ -1,1 +1,1 @@
-com.light.bubbleepro
+com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast
