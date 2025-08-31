@@ -1,1 +1,1 @@
-app.tools.soundmeter.decibel.noisedetector.pro
+com.lightstar.ringtonescheduler
