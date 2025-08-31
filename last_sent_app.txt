@@ -1,1 +1,1 @@
-com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast
+com.GiftBox.KidsPuzzleToddlersGame
