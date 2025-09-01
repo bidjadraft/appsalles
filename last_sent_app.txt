@@ -1,1 +1,1 @@
-com.watchfacestudio.awfnewdigital
+com.gmg.icon.pack.meteoroid.theme
