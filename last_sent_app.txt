@@ -1,1 +1,1 @@
-com.amoledwatchfaces.nord
+com.watchfacestudio.awfnewdigital
