@@ -1,1 +1,1 @@
-com.gmg.icon.pack.meteoroid.theme
+io.github.utopiacosmica.color_wheel
