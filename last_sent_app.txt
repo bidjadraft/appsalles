@@ -1,1 +1,1 @@
-com.hssn.anatomy3d
+pl.subpixels.sphaze
