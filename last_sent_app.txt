@@ -1,1 +1,1 @@
-com.unimob.foodfever.premium
+com.livezen.BurningSky.vip
