@@ -1,1 +1,1 @@
-com.bessermt.trisolve
+com.light.simpleclockwidget
