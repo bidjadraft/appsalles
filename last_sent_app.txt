@@ -1,1 +1,1 @@
-com.panotogomo.cubiclight
+com.amoledwatchfaces.dualtone
