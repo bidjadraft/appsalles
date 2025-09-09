@@ -1,1 +1,1 @@
-com.light.simpleclockwidget
+com.amoledwatchfaces.sprint
