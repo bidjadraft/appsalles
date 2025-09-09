@@ -1,1 +1,1 @@
-com.lightstar.batteryalarmpro
+com.watchfacestudio.athleticdigital
