@@ -1,1 +1,1 @@
-volumebooster.volume.booster.pro
+com.lightstar.batteryalarmpro
