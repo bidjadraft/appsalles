@@ -1,1 +1,1 @@
-com.watchfacestudio.athleticdigital
+com.eggies.taprush
