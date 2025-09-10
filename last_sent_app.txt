@@ -1,1 +1,1 @@
-com.eggies.taprush
+com.AKStudio.HighwayGame
