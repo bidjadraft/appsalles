@@ -1,1 +1,1 @@
-com.watchfacestudio.pixelworldpro
+com.scoregame.gameboosterpro
