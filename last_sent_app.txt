@@ -1,1 +1,1 @@
-com.watchfacestudio.hmk_digi_170
+com.smashdev.photostudiopro
