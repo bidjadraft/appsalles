@@ -1,1 +1,1 @@
-com.whitewind.swipe
+com.watchfacestudio.hmk_digi_170
