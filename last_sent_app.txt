@@ -1,1 +1,1 @@
-com.amoledwatchfaces.react
+com.zigzagame.evertale
