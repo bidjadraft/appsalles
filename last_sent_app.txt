@@ -1,1 +1,1 @@
-com.zigzagame.evertale
+com.bhanu.imageresizer
