@@ -1,1 +1,1 @@
-com.bhanu.imageresizer
+com.chessboardscanner.paid
