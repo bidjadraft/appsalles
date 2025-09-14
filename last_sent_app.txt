@@ -1,1 +1,1 @@
-com.chessboardscanner.paid
+com.mathforkids5.paid
