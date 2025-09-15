@@ -1,1 +1,1 @@
-com.bhanu.simpleshortcutmaker
+com.IQPuzzlesGames.WaterSortColorPuzzlePro
