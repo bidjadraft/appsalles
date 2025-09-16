@@ -1,1 +1,1 @@
-com.space.shooter.alien.galaxyattack
+com.alexeymorozua.palmsilhouette
