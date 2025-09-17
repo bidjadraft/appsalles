@@ -1,1 +1,1 @@
-com.watchfacestudio.awfdashdigital
+com.zitga.ninja.stickman.legends.shadow.wars
