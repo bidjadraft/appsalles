@@ -1,1 +1,1 @@
-com.panotogomo.redcarpet
+com.pixelstar.GrowZombiesVIP
