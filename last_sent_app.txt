@@ -1,1 +1,1 @@
-music.mixer.dj.mixer.pro
+dj.mixer.djmusicmixer.effects.pro
