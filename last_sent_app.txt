@@ -1,1 +1,1 @@
-dj.mixer.djmusicmixer.effects.pro
+com.panotogomo.cuticonsq
