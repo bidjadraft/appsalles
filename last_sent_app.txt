@@ -1,1 +1,1 @@
-com.crazyowl.ShurikenJump
+appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder
