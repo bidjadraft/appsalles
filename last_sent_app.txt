@@ -1,1 +1,1 @@
-com.ANOOGAMES.WordsSearchPremium
+com.futorum.corexgenesis
