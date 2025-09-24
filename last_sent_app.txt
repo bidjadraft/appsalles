@@ -1,1 +1,1 @@
-appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder
+com.divmob.autochess.heroesinfinity
