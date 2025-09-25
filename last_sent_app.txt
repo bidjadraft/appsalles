@@ -1,1 +1,1 @@
-com.inspirewatchface.iw16
+air.com.littlebigplay.games.premium.plurals
