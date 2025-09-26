@@ -1,1 +1,1 @@
-com.panotogomo.minkad
+com.osheden.distraction.free.icon.pack
