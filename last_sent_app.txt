@@ -1,1 +1,1 @@
-com.panotogomo.lbearth
+com.panotogomo.minkad
